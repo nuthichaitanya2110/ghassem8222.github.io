@@ -2,4 +2,4 @@
 
 My **homepage**
 
-[My omepage](http://ghassem.com)
+[My homepage](http://ghassem.com)
